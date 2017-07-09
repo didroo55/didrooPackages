@@ -1,2 +1,2 @@
 # didrooPackages
-Repository of Public Information of all didroo packages
+My R package published in CRAN which autmomates the  Recency Frequncy and Monetary analysis from transacion data. 
